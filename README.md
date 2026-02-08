@@ -14,6 +14,7 @@ From Clawdbot -> Moltbot -> Openclaw
 * [Setup OpenClaw on Proxmox](https://github.com/osamatech786/clawdbot-openclaw/blob/main/Guides/Setup/proxmox.pdf)
 * [Ollama guide](https://docs.ollama.com/integrations/openclaw)
 * [OpenRouter guide](https://openrouter.ai/docs/guides/guides/openclaw-integration)
+* [Railway guide](https://station.railway.com/templates/openclaw-railway-template-4de34380)
 
 ## Official OpenClaw Repo
 [Github Link](https://github.com/openclaw/openclaw)
