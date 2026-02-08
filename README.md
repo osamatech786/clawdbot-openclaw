@@ -16,6 +16,9 @@ From Clawdbot -> Moltbot -> Openclaw
 * [OpenRouter guide](https://openrouter.ai/docs/guides/guides/openclaw-integration)
 * [Railway guide](https://station.railway.com/templates/openclaw-railway-template-4de34380)
 
+### ClawPhone
+[ClawPhone](https://x.com/marshallrichrds/status/2020034922304426237?s=20)
+
 ## Official OpenClaw Repo
 [Github Link](https://github.com/openclaw/openclaw)
 
