@@ -25,6 +25,7 @@ From Clawdbot -> Moltbot -> Openclaw
 ## Alternatives
 * [🐈 nanobot: The Ultra-Lightweight Clawdbot](https://github.com/HKUDS/nanobot)
 * [nanoclaw: Small enough to understand](https://github.com/gavrielc/nanoclaw)
+* [MimiClaw](https://github.com/memovai/mimiclaw)
 
 ## Open Skills
 [Awesome OpenClaw Skills](https://github.com/VoltAgent/awesome-openclaw-skills)
