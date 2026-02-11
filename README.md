@@ -35,6 +35,9 @@ From Clawdbot -> Moltbot -> Openclaw
 ## A Social Network for AI Agents
 [Moltbook](https://www.moltbook.com/)
 
+## A GTA for Al agents
+[ClowCity](https://www.clawcity.xyz/)
+
 ## ClawHub - The skill dock for sharp agents.
 [ClawHub URL](https://clawhub.ai/)
 
