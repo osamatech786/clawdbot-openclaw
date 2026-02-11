@@ -40,3 +40,7 @@ From Clawdbot -> Moltbot -> Openclaw
 > **Security warning:** Use extreme caution with ClawHub skills. See:    
 > [Hundreds of Malicious Skills Found in OpenClaw’s ClawHub](https://www.esecurityplanet.com/threats/hundreds-of-malicious-skills-found-in-openclaws-clawhub/)  
 > [Rddit](https://www.reddit.com/r/cybersecurity/comments/1qwrwsh/openclaw_is_terrifying_and_the_clawhub_ecosystem/)
+
+
+## Workflows for OpenClow
+> just prompt it [Antfarm](https://github.com/snarktank/antfarm)
