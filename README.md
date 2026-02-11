@@ -28,6 +28,7 @@ From Clawdbot -> Moltbot -> Openclaw
 * [MimiClaw](https://github.com/memovai/mimiclaw)
 * [TinyClaw](https://github.com/jlia0/tinyclaw)
 * [PicoClaw](https://github.com/sipeed/picoclaw)
+* [EasyClaw][https://github.com/gaoyangz77/easyclaw]
 
 ## Open Skills
 [Awesome OpenClaw Skills](https://github.com/VoltAgent/awesome-openclaw-skills)
