@@ -1,4 +1,4 @@
-# All about ClauwdBot/OpenClaw
+# All about ClawdBot/OpenClaw
 
 From Clawdbot -> Moltbot -> Openclaw
 
