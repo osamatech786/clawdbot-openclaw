@@ -8,6 +8,7 @@ From Clawdbot -> Moltbot -> Openclaw
 > **Security note:** Local setup is highly discouraged due to various vulnerabilities. The Cloudflare Worker setup (about **$5/month**) is the best option to run it in a sandboxed environment.  
 > Or setup in just **1 click** for **$5** for first month on **Hostinger**.
 * [Setup OpenClaw Locally](https://github.com/osamatech786/clawdbot-openclaw/blob/main/Guides/Setup/local.pdf)
+* [One Click on Cloudflare Containers](https://github.com/miantiao-me/cloud-claw)
 * [Setup on Cloudflare Worker](https://blog.cloudflare.com/moltworker-self-hosted-ai-agent/)
 * [Hostinger - One Click Deployment](https://www.hostinger.com/vps/docker/openclaw)
 * [Setup on DigitalOcean](https://gist.github.com/dabit3/42cce744beaa6a0d47d6a6783e443636)
