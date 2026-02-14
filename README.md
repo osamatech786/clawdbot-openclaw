@@ -29,7 +29,7 @@ From Clawdbot -> Moltbot -> Openclaw
 * [MimiClaw](https://github.com/memovai/mimiclaw)
 * [TinyClaw](https://github.com/jlia0/tinyclaw)
 * [PicoClaw](https://github.com/sipeed/picoclaw)
-* [EasyClaw][https://github.com/gaoyangz77/easyclaw]
+* [EasyClaw](https://github.com/gaoyangz77/easyclaw)
 * [MiniClaw](https://github.com/htlin222/mini-claw)
 * [IronClaw](https://github.com/nearai/ironclaw)
 
