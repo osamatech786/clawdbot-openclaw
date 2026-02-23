@@ -52,6 +52,8 @@ From Clawdbot -> Moltbot -> Openclaw
 > [Hundreds of Malicious Skills Found in OpenClaw’s ClawHub](https://www.esecurityplanet.com/threats/hundreds-of-malicious-skills-found-in-openclaws-clawhub/)  
 > [Rddit](https://www.reddit.com/r/cybersecurity/comments/1qwrwsh/openclaw_is_terrifying_and_the_clawhub_ecosystem/)
 
+## Voice for OpenClaw
+* [VoxClaw](https://github.com/malpern/VoxClaw)
 
 ## Workflows for OpenClow
 > just prompt it [Antfarm](https://github.com/snarktank/antfarm)
