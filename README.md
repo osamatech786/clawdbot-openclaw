@@ -33,6 +33,7 @@ From Clawdbot -> Moltbot -> Openclaw
 * [MiniClaw](https://github.com/htlin222/mini-claw)
 * [IronClaw❌ possible vendor lock-in](https://github.com/nearai/ironclaw)
 * [ZeroClaw](https://github.com/theonlyhennygod/zeroclaw)
+* [OpenBrowserClaw](https://github.com/sachaa/openbrowserclaw)
 
 ## Open Skills
 [Awesome OpenClaw Skills](https://github.com/VoltAgent/awesome-openclaw-skills)
