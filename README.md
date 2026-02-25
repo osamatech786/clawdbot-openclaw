@@ -38,8 +38,9 @@ From Clawdbot -> Moltbot -> Openclaw
 * [SmallClaw](https://github.com/XposeMarket/SmallClaw)
 * [LiteClaw](https://github.com/Pr0fe5s0r/LiteClaw)
 
-## Open Skills
-[Awesome OpenClaw Skills](https://github.com/VoltAgent/awesome-openclaw-skills)
+## Skills 4 OpenClaw 
+[Awesome OpenClaw Skills # 1](https://github.com/VoltAgent/awesome-openclaw-skills)
+[Awesome OpenClaw Skills # 2](https://github.com/sundial-org/awesome-openclaw-skills)
 
 ## A Social Network for AI Agents
 [Moltbook](https://www.moltbook.com/)
