@@ -35,6 +35,8 @@ From Clawdbot -> Moltbot -> Openclaw
 * [ZeroClaw](https://github.com/theonlyhennygod/zeroclaw)
 * [OpenBrowserClaw](https://github.com/sachaa/openbrowserclaw)
 * [TrsutClaw](https://www.trustclaw.app/)
+* [SmallClaw](https://github.com/XposeMarket/SmallClaw)
+* [LiteClaw](https://github.com/Pr0fe5s0r/LiteClaw)
 
 ## Open Skills
 [Awesome OpenClaw Skills](https://github.com/VoltAgent/awesome-openclaw-skills)
