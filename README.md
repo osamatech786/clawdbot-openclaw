@@ -61,3 +61,22 @@ From Clawdbot -> Moltbot -> Openclaw
 
 ## Workflows for OpenClow
 > just prompt it [Antfarm](https://github.com/snarktank/antfarm)
+
+## Helpful Commands
+
+View dashboard in your browser:
+
+**1st Windows terminal (keep open):**
+```
+ssh -N -L 18789:127.0.0.1:18789 ubuntu@213.32.17.11
+```
+
+**2nd SSH in VPS and then:**
+```
+openclaw dashboard --no-open
+```
+
+**Optional: if token not working then generate new:**
+```
+openclaw doctor --generate-gateway-token --yes
+```
