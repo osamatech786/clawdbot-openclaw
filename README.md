@@ -23,6 +23,9 @@ From Clawdbot -> Moltbot -> Openclaw
 ## Official OpenClaw Repo
 [Github Link](https://github.com/openclaw/openclaw)
 
+## Secure Your OpenClaw via Nvidia's NemoClaw
+* [NemoClaw](https://github.com/NVIDIA/NemoClaw)
+
 ## Alternatives
 * [🐈 nanobot: The Ultra-Lightweight Clawdbot](https://github.com/HKUDS/nanobot)
 * [nanoclaw: Small enough to understand](https://github.com/gavrielc/nanoclaw)
@@ -38,7 +41,6 @@ From Clawdbot -> Moltbot -> Openclaw
 * [SmallClaw](https://github.com/XposeMarket/SmallClaw)
 * [LiteClaw](https://github.com/Pr0fe5s0r/LiteClaw)
 * [NullClaw](https://github.com/nullclaw/nullclaw)
-* [NemoClaw](https://github.com/NVIDIA/NemoClaw)
 
 ## Skills 4 OpenClaw 
 [Awesome OpenClaw Skills # 1](https://github.com/VoltAgent/awesome-openclaw-skills)
