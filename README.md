@@ -28,10 +28,12 @@ From Clawdbot -> Moltbot -> Openclaw
 
 ## Alternatives
 * [🐈 nanobot: The Ultra-Lightweight Clawdbot](https://github.com/HKUDS/nanobot)
+* [Hermes Agent](https://github.com/nousresearch/hermes-agent)
+* [PicoClaw](https://github.com/sipeed/picoclaw)
+* 
 * [nanoclaw: Small enough to understand](https://github.com/gavrielc/nanoclaw)
 * [MimiClaw](https://github.com/memovai/mimiclaw)
 * [TinyClaw](https://github.com/jlia0/tinyclaw)
-* [PicoClaw](https://github.com/sipeed/picoclaw)
 * [EasyClaw](https://github.com/gaoyangz77/easyclaw)
 * [MiniClaw](https://github.com/htlin222/mini-claw)
 * [IronClaw❌ possible vendor lock-in](https://github.com/nearai/ironclaw)
@@ -42,7 +44,6 @@ From Clawdbot -> Moltbot -> Openclaw
 * [LiteClaw](https://github.com/Pr0fe5s0r/LiteClaw)
 * [NullClaw](https://github.com/nullclaw/nullclaw)
 * [ThePopeBot](https://github.com/stephengpope/thepopebot)
-* [Hermes Agent](https://github.com/nousresearch/hermes-agent)
 
 ## Skills 4 OpenClaw 
 [Awesome OpenClaw Skills # 1](https://github.com/VoltAgent/awesome-openclaw-skills)
