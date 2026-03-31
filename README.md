@@ -28,6 +28,7 @@ From Clawdbot -> Moltbot -> Openclaw
 
 ## Alternatives
 * [🐈 nanobot: The Ultra-Lightweight Clawdbot](https://github.com/HKUDS/nanobot)
+* [Agent Zero](https://github.com/agent0ai/agent-zero)
 * [Hermes Agent](https://github.com/nousresearch/hermes-agent)
 * [PicoClaw](https://github.com/sipeed/picoclaw)
 * 
