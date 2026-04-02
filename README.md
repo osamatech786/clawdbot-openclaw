@@ -17,14 +17,17 @@ From Clawdbot -> Moltbot -> Openclaw
 * [OpenRouter guide](https://openrouter.ai/docs/guides/guides/openclaw-integration)
 * [Railway guide](https://station.railway.com/templates/openclaw-railway-template-4de34380)
 
-### ClawPhone
-[ClawPhone](https://x.com/marshallrichrds/status/2020034922304426237?s=20)
-
 ## Official OpenClaw Repo
 [Github Link](https://github.com/openclaw/openclaw)
 
 ## Secure Your OpenClaw via Nvidia's NemoClaw
-* [NemoClaw](https://github.com/NVIDIA/NemoClaw)
+[NemoClaw](https://github.com/NVIDIA/NemoClaw)
+
+## Monitor & run OpenClaw instances at scale
+[ClawManager](https://github.com/Yuan-lab-LLM/ClawManager)
+
+## Team of agents working together as working in a company
+[PaperClip](https://github.com/paperclipai/paperclip)
 
 ## Alternatives
 * [🐈 nanobot: The Ultra-Lightweight Clawdbot](https://github.com/HKUDS/nanobot)
@@ -45,6 +48,9 @@ From Clawdbot -> Moltbot -> Openclaw
 * [LiteClaw](https://github.com/Pr0fe5s0r/LiteClaw)
 * [NullClaw](https://github.com/nullclaw/nullclaw)
 * [ThePopeBot](https://github.com/stephengpope/thepopebot)
+
+### ClawPhone
+[ClawPhone](https://x.com/marshallrichrds/status/2020034922304426237?s=20)
 
 ## Skills 4 OpenClaw 
 [Awesome OpenClaw Skills # 1](https://github.com/VoltAgent/awesome-openclaw-skills)
